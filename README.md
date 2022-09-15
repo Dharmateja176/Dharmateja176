@@ -13,9 +13,10 @@ Hi 👋 My name is DharmaTeja
                
 ### Socials
    
- <p align="left">
+<p align="left">
 <a href="https://www.github.com/dharmateja176" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 </p>
+<a href="https://www.hackerrank.com/dharmateja.176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmateja.176" height="30" width="40" /></a>
 
 <!---
 Dharmateja176/Dharmateja176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
