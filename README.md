@@ -1,5 +1,9 @@
-Hi 👋 My name is Dharma Teja
+<!-- Hi 👋 My name is Dharma Teja -->
+Dharma Teja
 ===========================
+<h6 style="color:blue;text-align:center;" >Time and Space 🪐</h6>
+
+
 ### Skills
 
 <p align="left">
