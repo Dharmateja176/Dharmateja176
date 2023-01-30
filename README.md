@@ -15,6 +15,8 @@ Hi 👋 My name is Dharma Teja
    
 <p align="left">
 <a href="https://www.hackerrank.com/dharmateja_176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmateja.176" height="36" width="36" /></a>
+<!--    https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg -->
+  <a href="https://leetcode.com/dharmateja_176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmateja.176" height="36" width="36" /></a>
 
 <!---
 Dharmateja176/Dharmateja176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
