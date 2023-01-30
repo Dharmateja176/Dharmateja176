@@ -1,4 +1,4 @@
-Hi 👋 My name is DharmaTeja
+Hi 👋 My name is Dharma Teja
 ===========================
 ### Skills
 
