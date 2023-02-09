@@ -3,8 +3,7 @@ Dharma Teja
 ===========================
 <h6 style="color:blue;text-align:center;" >Time and Space 🪐</h6>
 
-
-### Skills
+<!-- ### Skills
 
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -12,15 +11,15 @@ Dharma Teja
   <br><br>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                    </p>
+                    </p> -->
                     
-               
+<!--                
 ### Socials
    
 <p align="left">
-<a href="https://www.hackerrank.com/dharmateja_176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmateja.176" height="36" width="36" /></a>
-<!--    https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg -->
+                                <a href="https://www.hackerrank.com/dharmateja_176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmateja.176" height="36" width="36" /></a>
   <a href="https://leetcode.com/dharmateja_176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmateja.176" height="36" width="36" /></a>
+</p> -->
 
 <!---
 Dharmateja176/Dharmateja176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
