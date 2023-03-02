@@ -1,27 +1,25 @@
 <!-- Hi 👋 My name is Dharma Teja -->
 Dharma Teja
 ===========================
-<h6 style="color:blue;text-align:center;" >Time and Space 🪐</h6>
+<h6>Time and Space 🪐</h6>
 
-<!-- ### Skills
-
-<p align="left">
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <br><br>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                    </p> -->
-                    
-<!--                
-### Socials
-   
-<p align="left">
-                                <a href="https://www.hackerrank.com/dharmateja_176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmateja.176" height="36" width="36" /></a>
-  <a href="https://leetcode.com/dharmateja_176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmateja.176" height="36" width="36" /></a>
-</p> -->
+<!-- ### Skills -->
 
 <!---
 Dharmateja176/Dharmateja176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmateja176&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmateja176&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- &hide=stars,commits,prs,issues,contribs -->
+<!-- &count_private=true -->
+<!-- &theme=transparent -->
+<!-- &hide_borde=true -->
+<!-- &include_all_commits -->
+<!-- &count_private -->
+![Dharmatejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharmateja176&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide=stars&theme=dark#gh-dark-mode-only)
